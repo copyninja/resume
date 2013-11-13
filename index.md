@@ -1,132 +1,81 @@
-Christophe-Marie Duquesne
-=========================
+Clinton Dreisbach
+==================
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+>  Specialties: Clojure, Python, SQL, teaching\
+>  <clinton@dreisbach.us> • http://github.com/cndreisbach/\
+>  (919) 360-9150 • Durham, NC
 
 ----
 
-Corporate Experience
---------------------
+Experience
+-----------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+November 2012 - present
+:   *Technology & Innovation Fellow at the [CFPB](http://consumerfinance.gov)*
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+    Designed and created [Qu](http://github.com/cfpb/qu), a data platform used
+    to serve public datasets. Qu is capable of streaming datasets of arbitrary
+    length, ingesting and manipulating datasets based off definition files,
+    and batch processing map-reduce jobs on that data.
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+    Co-chair of the Open Source Working Group. Helped coordinate a major
+    effort to open source over a dozen projects.
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+August 2011 - November 2012
+:   *Developer at [Relevance (now Cognitect)](http://cognitect.com/)*
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+    Designed, created, and improved large software systems in Ruby and Clojure.
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+August 2007 - March 2011
+:   *Development Director at [Viget Labs](http://viget.com/)*
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
+    Led Durham, NC & Washington, DC based development teams. Worked as lead 
+    developer on Ruby on Rails projects for established businesses and startup 
+    clients.
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+Previously
+:   *Developer at Lulu.com* \
+    *Lead Developer at Demand Publishing* \
+    *Contractor at Boeing and RealNetworks* \
+    *Signals Intelligence Analyst, U.S. Army*
+
 
 Selected Open Source Contributions
 ----------------------------------
 
+Clojure
+:   Author of [Qu](http://github.com/cfpb/qu), a data platform built on top 
+    of MongoDB, used to query, analyze, and stream data. Contributed to
+    [Light Table](http://lighttable.com/).
+
+    Lead author of the curriculum for [ClojureBridge](http://clojurebridge.org/),
+    an initiative to increase diversity within the Clojure community by offering 
+    free, beginner-friendly workshops for women.
+
 Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
+:   Member of core team for [Hy](http://hylang.org/), a Lisp that compiles
+    to the Python AST. Implemented tail-call optimization for Hy.
 
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
+Ruby
+:   Author of [edn-ruby](https://github.com/relevance/edn-ruby), an EDN parser
+    and writer. Original author of 
+    [Diametric](https://github.com/relevance/diametric), an 
+    ActiveModel-compliant interface to the Datomic database.
 
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
 
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
-
-Education
----------
-
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
-
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
-
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
-
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
-
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
-
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
-
-Activities and interests
+Activities and Interests
 ------------------------
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+Games
+:   I am an [award-winning role-playing game designer](http://crngames.com/the_shadow_of_yesterday/)
+    and love playing all kinds of board and tabletop games.
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+Teaching
+:   I taught Scheme using the [Bootstrap program](http://bootstrapworld.org)
+    in an after-school program at a local middle school. I also volunteer as
+    a math tutor.
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
-
-----
-
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+Music
+:   I play the ukulele in a folk ensemble.
