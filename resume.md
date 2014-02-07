@@ -4,7 +4,7 @@ Clinton Dreisbach
 ----
 
 >  Specialties: Clojure, Python, SQL, teaching\
->  <clinton@dreisbach.us> • http://github.com/cndreisbach/\
+>  <clinton@dreisbach.us> • <https://github.com/cndreisbach/>\
 >  (919) 360-9150 • Durham, NC
 
 ----
