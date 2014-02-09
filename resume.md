@@ -1,10 +1,11 @@
-Vasudeva Sathish Kamath
-========================
+Vasudeva Sathish Kamath B
+=========================
 
 ----
 
 >  Specialties: Python, C, Shell Scripting, Debian\
 >  <kamathvasudev@gmail.com> • <https://github.com/copyninja/>\
+>  <http://copyninja.info> • <https://www.ohloh.net/accounts/copyninja>\
 >  (91) 9741801580 • Bangalore, Karnataka, India
 
 ----
@@ -19,19 +20,19 @@ August 2012 - Present
      components running on our industrial PC.
 
      Patching the Linux kernel with special hardware patches from
-     vendor and recompiling. Which includes enabling some specific
+     vendor and recompiling, which includes enabling some specific
      feature required by the end product.
 
-     Profiling various invovled components using tools like gprof and
+     Profiling various invovled components using tools like _gprof_ and
      timers to check the performance critical parts and improving it
      to stabilize the product.
 
-     Responsible for setting up Git VCS for maintaining the source
+     Responsible for setting up _Git_ VCS for maintaining the source
      code of all components using Gitolite and mirroring it on
      redundant machines for backup purpose.
 
      Responsible for source code static analysis and code review using
-     Klocwork tool.
+     _Klocwork_ tool.
 
 July 2011 - July 2012
 :   *Software Engineer at [ABB India Limited](http://abb.co.in)*
@@ -44,8 +45,8 @@ July 2011 - July 2012
 
     Hardening Debian GNU/Linux for industrial PC for improved
     security. Involved working with iptables and hardening the
-    configurations for applications like Apache webserver and OpenSSH
-    server.
+    configurations for applications like _Apache_ webserver and
+    _OpenSSH_ server.
 
     Developing a tool which can create a Debian pure blend by applying
     the minimal customization needed to maintain the backward
@@ -90,7 +91,6 @@ Python
     service which can take input from user and respond with meaning
     from the Wiktionary. Current working bot can be accessed at
     _kn.dict.bot@jabber.org_ and _pandita@jabber.org_.
-    
 
 Debian
 :   I'm [Debian Maintainer](https://wiki.debian.org/DebianMaintainer)
@@ -113,12 +113,19 @@ Activities and Interests
 Conferences
 :   I've oragnized the
     [MiniDebconf 2011](http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/article2581633.ece)
-    at my Alumni which had 2 foreign DD's as guest. The conference
-    gave a brief introduction to Debian and related activities to
-    interested students and people.
+    at my alma-mater which had 2 foreign Debian Developers as guest.
+
+    I've conducted several workshop in my alma-mater advocating use of
+    GNU/Linux. Some of this programs were done for the local school
+    students and some other workshops were done for the college
+    lecturers.
 
 Teaching
 :   I've done teaching in Hindustani Tabla instrument for about 5 years.
 
+    I've mentored student for _Gsoc 2013_ under organization
+    [SMC](http://smc.org.in) for SILPA project.
+
 Music
-:   I've completed _Vidwat_ degree in Hindustani Tabla.
+:   I've completed _[Vidwat](https://en.wikipedia.org/wiki/Vidwan)_
+    degree in Hindustani Tabla.
