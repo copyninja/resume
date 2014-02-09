@@ -1,10 +1,11 @@
-Vasudeva Sathish Kamath
-=======================
+Vasudeva Sathish Kamath B
+=========================
 
 * * * * *
 
   Specialties: Python, C, Shell Scripting, Debian  
    kamathvasudev@gmail.com • https://github.com/copyninja/  
+   http://copyninja.info • https://www.ohloh.net/accounts/copyninja  
    (91) 9741801580 • Bangalore, Karnataka, India
 
 * * * * *
@@ -19,7 +20,7 @@ August 2012 - Present
     components running on our industrial PC.
 
     Patching the Linux kernel with special hardware patches from vendor
-    and recompiling. Which includes enabling some specific feature
+    and recompiling, which includes enabling some specific feature
     required by the end product.
 
     Profiling various invovled components using tools like gprof and
@@ -100,12 +101,19 @@ Activities and Interests
 ------------------------
 
 Conferences
-    I’ve oragnized the MiniDebconf 2011 at my Alumni which had 2 foreign
-    DD’s as guest. The conference gave a brief introduction to Debian
-    and related activities to interested students and people.
+    I’ve oragnized the MiniDebconf 2011 at my alma-mater which had 2
+    foreign Debian Developers as guest.
+
+    I’ve conducted several workshop in my alma-mater advocating use of
+    GNU/Linux. Some of this programs were done for the local school
+    students and some other workshops were done for the college
+    lecturers.
 
 Teaching
     I’ve done teaching in Hindustani Tabla instrument for about 5 years.
+
+    I’ve mentored student for Gsoc 2013 under organization SMC for SILPA
+    project.
 
 Music
     I’ve completed Vidwat degree in Hindustani Tabla.
