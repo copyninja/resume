@@ -68,8 +68,8 @@ July 2009 - June 2011
 
     Designer and Developer of [Racontours](http://www.racontours.com/)
     iPhone application which provides "Walking Tours" with audio and
-    various pictures to the end user. The tours for the application
-    are implemented as in-app purchases.
+    various pictures to the end user. Various tours for the
+    application are implemented as in-app purchases.
 
     Setting up and maintaining Subversion VCS for the team.
 
