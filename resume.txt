@@ -1,77 +1,111 @@
-Clinton Dreisbach
-=================
+Vasudeva Sathish Kamath
+=======================
 
 * * * * *
 
-  Specialties: Clojure, Python, SQL, teaching  
-   clinton@dreisbach.us • http://github.com/cndreisbach/  
-   (919) 360-9150 • Durham, NC
+  Specialties: Python, C, Shell Scripting, Debian  
+   kamathvasudev@gmail.com • https://github.com/copyninja/  
+   (91) 9741801580 • Bangalore, Karnataka, India
 
 * * * * *
 
 Experience
 ----------
 
-November 2012 - present
-    Technology & Innovation Fellow at the CFPB
+August 2012 - Present
+    Technical Lead at ABB India Limited
 
-    Designed and created Qu, a data platform used to serve public
-    datasets. Qu is capable of streaming datasets of arbitrary length,
-    ingesting and manipulating datasets based off definition files, and
-    batch processing map-reduce jobs on that data.
+    Responsible for improving the security and performance of various
+    components running on our industrial PC.
 
-    Co-chair of the Open Source Working Group. Helped coordinate a major
-    effort to open source over a dozen projects.
+    Patching the Linux kernel with special hardware patches from vendor
+    and recompiling. Which includes enabling some specific feature
+    required by the end product.
 
-August 2011 - November 2012
-    Developer at Relevance (now Cognitect)
+    Profiling various invovled components using tools like gprof and
+    timers to check the performance critical parts and improving it to
+    stabilize the product.
 
-    Designed, created, and improved large software systems in Ruby and
-    Clojure.
+    Responsible for setting up Git VCS for maintaining the source code
+    of all components using Gitolite and mirroring it on redundant
+    machines for backup purpose.
 
-August 2007 - March 2011
-    Development Director at Viget Labs
+    Responsible for source code static analysis and code review using
+    Klocwork tool.
 
-    Led Durham, NC & Washington, DC based development teams. Worked as
-    lead developer on Ruby on Rails projects for established businesses
-    and startup clients.
+July 2011 - July 2012
+    Software Engineer at ABB India Limited
 
-Previously
-    Developer at Lulu.com  
-    Lead Developer at Demand Publishing  
-    Contractor at Boeing and RealNetworks  
-    Signals Intelligence Analyst, U.S. Army
+    Developed a solution to support replacing old industrial PC with a
+    project in running industrial plant with new device with minimal
+    down time. The solution was developed for Linux which utilized udev
+    mechanism and customized boot process along with a C based
+    application to handle project conversion.
+
+    Hardening Debian GNU/Linux for industrial PC for improved security.
+    Involved working with iptables and hardening the configurations for
+    applications like Apache webserver and OpenSSH server.
+
+    Developing a tool which can create a Debian pure blend by applying
+    the minimal customization needed to maintain the backward
+    compatibility with existing image. Using this tool new image was
+    created for industrial PC based on Debian 6.
+
+    Developing and maintaining various C/C++ components running on the
+    industrial PC. Involved use of gcc, g++ shell and gnumake tools.
+
+July 2009 - June 2011
+    Systems Analyst at Invenger Pvt. Limited
+
+    Designer and Developer of iClaims for the iPhone and to some extent
+    in Blackberry. Also designed the webservice required for the
+    application in PHP. iClaim is capable of reporting an incident along
+    with supporting videos and photos. It also allows checking the
+    status of previous claims done.
+
+    Designer and Developer of Racontours iPhone application which
+    provides “Walking Tours” with audio and various pictures to the end
+    user. The tours for the application are implemented as in-app
+    purchases.
+
+    Setting up and maintaining Subversion VCS for the team.
 
 Selected Open Source Contributions
 ----------------------------------
 
-Clojure
-    Author of Qu, a data platform built on top of MongoDB, used to
-    query, analyze, and stream data. Contributed to Light Table.
-
-    Lead author of the curriculum for ClojureBridge, an initiative to
-    increase diversity within the Clojure community by offering free,
-    beginner-friendly workshops for women.
-
 Python
-    Member of core team for Hy, a Lisp that compiles to the Python AST.
-    Implemented tail-call optimization for Hy.
+    Co-Developer for SILPA project, a framework for hosting various
+    Indic computing algorithms developed in python. Complete redesign of
+    the same platform was done by me using Flask micro framework. All
+    components are separated into independent modules. The project and
+    related modules source code is available on Project-SILPA github
+    organization. This project was also part of Gsoc 2013 under SMC
+    organization.
 
-Ruby
-    Author of edn-ruby, an EDN parser and writer. Original author of
-    Diametric, an ActiveModel-compliant interface to the Datomic
-    database.
+    Developer of Jabber dictionary-bot service which can take input from
+    user and respond with meaning from the Wiktionary. Current working
+    bot can be accessed at kn.dict.bot@jabber.org and
+    pandita@jabber.org.
+
+Debian
+    I’m Debian Maintainer from December 2011 and have been maintaining
+    packages in Debian from 2011. I maintain about 66 packages in Debian
+    which can be seen on my QA Page. I’m currently in the NM process to
+    become a Debian Developer.
+
+    Active member of Debian-IN team which maintains all the Indian
+    language related softwares and fonts in Debian.
 
 Activities and Interests
 ------------------------
 
-Games
-    I am an award-winning role-playing game designer and love playing
-    all kinds of board and tabletop games.
+Conferences
+    I’ve oragnized the MiniDebconf 2011 at my Alumni which had 2 foreign
+    DD’s as guest. The conference gave a brief introduction to Debian
+    and related activities to interested students and people.
 
 Teaching
-    I taught Scheme using the Bootstrap program in an after-school
-    program at a local middle school. I also volunteer as a math tutor.
+    I’ve done teaching in Hindustani Tabla instrument for about 5 years.
 
 Music
-    I play the ukulele in a folk ensemble.
+    I’ve completed Vidwat degree in Hindustani Tabla.
