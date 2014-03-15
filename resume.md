@@ -5,7 +5,7 @@ Vasudeva Sathish Kamath B
 
 >  Specialties: Python, C, Shell Scripting, Debian\
 >  <kamathvasudev@gmail.com> • <https://github.com/copyninja/>\
->  <http://copyninja.info> • <https://www.ohloh.net/accounts/copyninja>\
+>  <http://copyninja.info> • <http://www.linkedin.com/in/kamathvasudev>\
 >  (91) 9741801580 • Bangalore, Karnataka, India
 
 ----
@@ -13,84 +13,73 @@ Vasudeva Sathish Kamath B
 Experience
 -----------
 
-August 2012 - Present
-:   *Technical Lead at [ABB India Limited](http://abb.co.in)*
+March 2014 - Present
+:   *Senior Software Engineer (Development and Implementation) [ABB India Limited](http://abb.co.in)*
 
-     Responsible for improving the security and performance of various
-     components running on our industrial PC.
+     Responsible for security, performance improvement, stability and
+     maintainability of the whole intelligent solution product.
 
-     Patching the Linux kernel with special hardware patches from
-     vendor and recompiling, which includes enabling some specific
-     feature required by the end product.
+     Static analysis of code using klocwork tool, identifying
+     performance critical parts in components for security performance
+     and stabilizing the end product.
 
-     Profiling various invovled components using tools like _gprof_ and
-     timers to check the performance critical parts and improving it
-     to stabilize the product.
+     Compiling additional hardware drivers by vendor for Linux kernel
+     to introduce new hardware part into industrial PC.
 
-     Responsible for setting up _Git_ VCS for maintaining the source
-     code of all components using Gitolite and mirroring it on
-     redundant machines for backup purpose.
+     Setting up Git VCS and Klocwork code review tool for the team and
+     maintaining it.
 
-     Responsible for source code static analysis and code review using
-     _Klocwork_ tool.
-
-July 2011 - July 2012
+July 2011 - February 2014
 :   *Software Engineer at [ABB India Limited](http://abb.co.in)*
 
-    Developed a solution to support replacing old industrial PC with a
-    project in running industrial plant with new device with minimal
-    down time. The solution was developed for Linux which utilized
-    udev mechanism and customized boot process along with a C based
-    application to handle project conversion.
+    Solution to replace old hardware in a running plant with new
+    hardware without expert interference, involving C program, udev
+    rule and boot customization of Linux.
 
     Hardening Debian GNU/Linux for industrial PC for improved
-    security. Involved working with iptables and hardening the
-    configurations for applications like _Apache_ webserver and
-    _OpenSSH_ server.
+    security, rate limiting, port blocking using iptables and
+    configuration hardening for various system applications.
 
-    Developing a tool which can create a Debian pure blend by applying
-    the minimal customization needed to maintain the backward
-    compatibility with existing image. Using this tool new image was
-    created for industrial PC based on Debian 6.
+    Tool for automating development of new OS based on Debian, using
+    GNU make and shell scripting. Patching new Linux kernel in new OS
+    with existing vendor patch.
 
-    Developing and maintaining various C/C++ components running on the
-    industrial PC. Involved use of gcc, g++ shell and gnumake tools.
+    Maintaining various components written in C/C++ implementing
+    custom TCP/UDP protocols, and writing Wireshark extension for
+    these proprietary protocols.
 
 July 2009 - June 2011
 :   *Systems Analyst at [Invenger Pvt. Limited](http://invenger.com)*
 
     Designer and Developer of
 	[iClaims](http://www.farmers.com/iclaim.html) for the iPhone and
-	to some extent in Blackberry. Also designed the webservice
-	required for the application in PHP. iClaim is capable of
-	reporting an incident along with supporting videos and photos. It
-	also allows checking the status of previous claims done.
+	to some extent in Blackberry. App is capable of filing new
+	insurance claims and checking existing claim status for well known
+	insurance company in US.
 
     Designer and Developer of [Racontours](http://www.racontours.com/)
     iPhone application which provides "Walking Tours" with audio and
     various pictures to the end user. Various tours for the
     application are implemented as in-app purchases.
 
-    Setting up and maintaining Subversion VCS for the team.
+    Developing simple webservice using PHP for above application and
+    setting up and maintaining VCS for application code using
+    Subversion
 
 Selected Open Source Contributions
 ----------------------------------
 
 Python
-:   Co-Developer for [SILPA](http://dev.silpa.org.in) project, a
-    framework for hosting various Indic computing algorithms developed
-    in python. Complete redesign of the same platform was done by me
-    using Flask micro framework. All components are separated into
-    independent modules. The project and related modules source code
-    is available on
-    [Project-SILPA github organization](http://github.com/Project-SILPA). This
-    project was also part of _Gsoc 2013_ under _SMC organization_.
+:   Developer for [SILPA](http://silpa.org.in) project, a web framework
+    for hosting Indian language computing Python modules. Completely
+    redesigned from scratch using Flask micro framework. Tasks
+    included separating the various computing module into independent
+    Python modules. Source code is available on
+    [Github](https://github.com/Project-SILPA).
 
-    Developer of Jabber
-    [dictionary-bot](http://github.com/copyninja/dictionary-bot)
-    service which can take input from user and respond with meaning
-    from the Wiktionary. Current working bot can be accessed at
-    _kn.dict.bot@jabber.org_ and _pandita@jabber.org_.
+:   Developer of
+    [Jabber dictionary bot](https://github.com/copyninja/dictionary-bot),
+    which can be extended to fetch meanings in multiple languages
 
 Debian
 :   I'm [Debian Maintainer](https://wiki.debian.org/DebianMaintainer)
@@ -102,23 +91,20 @@ Debian
     [NM process](https://nm.debian.org/public/process/vasudev) to
     become a Debian Developer.
 
-    Active member of
-    [Debian-IN team](http://qa.debian.org/developer.php?login=debian-in-workers@lists.alioth.debian.org)
-    which maintains all the Indian language related softwares and
-    fonts in Debian.
+Misc
+:   My various contribution to Open Source world can be seen in my
+   [Ohloh account](https://www.ohloh.net/accounts/copyninja) and
+   [Open Source report card](http://osrc.dfm.io/copyninja).
 
 Activities and Interests
 ------------------------
 
 Conferences
-:   I've oragnized the
-    [MiniDebconf 2011](http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/article2581633.ece)
-    at my alma-mater which had 2 foreign Debian Developers as guest.
+:   Organizer for
+    [Minidebconf 2011](https://lists.debian.org/debian-project/2011/11/msg00009.html).
 
-    I've conducted several workshop in my alma-mater advocating use of
-    GNU/Linux. Some of this programs were done for the local school
-    students and some other workshops were done for the college
-    lecturers.
+:   Various GNU/Linux advocation program at my alma-mater for Kids and
+    college lecturers
 
 Teaching
 :   I've done teaching in Hindustani Tabla instrument for about 5 years.
